@@ -27,7 +27,7 @@ export function Logo({ className = "" }: { className?: string }) {
           fillOpacity="0.3"
         />
       </svg>
-      <span className="text-xl font-bold bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text text-transparent">
+      <span className="text-xl font-bold text-white">
         Monstarlab
       </span>
     </div>

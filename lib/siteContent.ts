@@ -194,7 +194,7 @@ export const siteContent = {
       {
         title: "Company",
         links: [
-          { text: "About Us", href: "#about" },
+          { text: "About Us", href: "/about" },
           { text: "Case Studies", href: "#work" },
           { text: "Pricing", href: "#pricing" },
           { text: "Contact", href: "#contact" },
